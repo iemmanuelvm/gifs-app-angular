@@ -1,0 +1,5 @@
+#sidebar {
+  /* vh es el view high es decir que este se extendera en toda la pantall */
+  height: 100vh;
+  width: 250px;
+}
